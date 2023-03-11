@@ -1,0 +1,16 @@
+body{
+background-color:lightpink;
+}
+
+b{
+    background-color: aquamarine;
+}
+#camera{
+    border-width:3;
+    border-color:lightsalmon;
+    border-style:solid;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color :purple;
+
+}
